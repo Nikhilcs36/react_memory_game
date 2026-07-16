@@ -7,16 +7,16 @@ import Confetti from "react-confetti";
 const gameIcons = [
   "💕",
   "😊",
-  // "👌",
-  // "💋",
-  // "😎",
-  // "👀",
-  // "🎁",
-  // "🌹",
-  // "🎂",
-  // "🎉",
-  // "🎶",
-  // "🏆",
+  "👌",
+  "💋",
+  "😎",
+  "👀",
+  "🎁",
+  "🌹",
+  "🎂",
+  "🎉",
+  "🎶",
+  "🏆",
 ];
 
 function App() {
@@ -131,7 +131,7 @@ function App() {
       </div>
       {isGameCompleted && (
         <div className="game-completed">
-          <h1 style={{ color: "whitesmoke" }}>Nikhil WIN !!!</h1>
+          <h1 style={{ color: "whitesmoke" }}>WIN WIN !!!</h1>
           <Confetti width={window.innerWidth} height={window.innerHeight} />
         </div>
       )}
