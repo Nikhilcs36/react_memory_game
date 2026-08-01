@@ -1,8 +1,3 @@
-[] - Grid
-[] - Array of Icons
-[] - Duplications
-[] - Shuffle logic
-[] - Flipped
-[] - Solved
-[] - Position
-[] - Game Completed
+## Status
+
+This project is currently under development.
